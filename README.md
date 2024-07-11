@@ -15,7 +15,8 @@ Mark aimerait explorer les pays avec un fort potentiel de clients pour les servi
 
 ## Votre mission
 Mark vous a donc demandé de réaliser une analyse pré-exploratoire de ce jeu de données. Il vous a transmis cet email à la suite de la réunion :
-`
+
+```
 Hello,
 
 Les données sont disponibles sur [ce site de la Banque mondiale](https://datacatalog.worldbank.org/dataset/education-statistics) ou en téléchargement direct à ce [lien](https://s3-eu-west-1.amazonaws.com/static.oc-static.com/prod/courses/files/Parcours_data_scientist/Projet+-+Donn%C3%A9es+%C3%A9ducatives/Projet+Python_Dataset_Edstats_csv.zip).
@@ -32,6 +33,6 @@ déterminer des ordres de grandeurs des indicateurs statistiques classiques pour
 Ton travail va nous permettre de déterminer si ce jeu de données peut informer les décisions d'ouverture vers de nouveaux pays. On va partager ton analyse avec le board, alors merci de soigner la présentation et de l'illustrer avec des graphiques pertinents et lisibles !
 
 Merci !
-`
+```
 
 Vous avez toutes les clés en main pour accomplir votre mission !
